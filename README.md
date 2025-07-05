@@ -84,6 +84,13 @@ Your contributions are welcome! If you'd like to enhance the project:
 5. Open a Pull Request
 
 #### 📚 References
-**scikit-learn documentation: https://scikit-learn.org**
+**sci-kit-learn documentation: https://scikit-learn.org**
 
 ## 🙋 About the Author
+Created by Rajendhar Are, a passionate Computer Science student deeply interested in data structures, machine learning, and software development.
+
+GitHub: @RajendharAre
+
+LinkedIn: Your LinkedIn Profile
+
+Email: your-email@example.com
