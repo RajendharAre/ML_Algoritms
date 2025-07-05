@@ -73,12 +73,17 @@ Your contributions are welcome! If you'd like to enhance the project:
 - Share real-world datasets or challenges
 
 ### Steps to Contribute
-1.Fork the repo
+1. Fork the repo
 
-2.Create your feature branch: git checkout -b feature-name
+2. Create your feature branch: git checkout -b feature-name
 
-3.Commit your changes: git commit -m "Added XYZ algorithm"
+3. Commit your changes: git commit -m "Added XYZ algorithm"
+ 
+4. Push to the branch: git push origin feature-name
 
-4.Push to the branch: git push origin feature-name
+5. Open a Pull Request
 
-5.Open a Pull Request
+#### 📚 References
+**scikit-learn documentation: https://scikit-learn.org**
+
+## 🙋 About the Author
