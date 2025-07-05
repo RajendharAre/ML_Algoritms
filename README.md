@@ -50,7 +50,14 @@ Here's an example of output visualization from the Linear Regression algorithm:
 ![image](https://github.com/user-attachments/assets/29c39834-e4b5-40ef-969f-942e36073c9c)
 
 
+## ✨ Why This Repository?
+- ✅ Build machine learning models from scratch to improve conceptual clarity
 
+- 🧠 Reinforce linear algebra and mathematical understanding
+
+- 🔍 Learn how each algorithm behaves with different datasets
+
+- 📚 Get better prepared for coding interviews and academic exams
 
 
 
