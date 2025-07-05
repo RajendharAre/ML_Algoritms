@@ -96,6 +96,6 @@ LinkedIn: [RajendharAre](https://www.linkedin.com/in/rajendhar-are/)
 Email: arerajendhar2903@gmail.com
 
 ## 📝 License
-   *This project is licensed under the [MIT License]([https://github.com/RajendharAre/ML_Algoritms/tree/main?tab=MIT-1-ov-file](https://github.com/RajendharAre/ML_Algoritms/blob/main/LICENSE)). You are free to use, modify, and distribute it with attribution.*
+   *This project is licensed under the [MIT License](https://github.com/RajendharAre/ML_Algoritms/blob/main/LICENSE). You are free to use, modify, and distribute it with attribution.*
 
 **“Learning by doing is the fastest way to mastery.” – Happy Coding 💻**
