@@ -59,6 +59,26 @@ Here's an example of output visualization from the Linear Regression algorithm:
 
 - 📚 Get better prepared for coding interviews and academic exams
 
+## 🙌 Contributing
+Your contributions are welcome! If you'd like to enhance the project:
 
+- Add new algorithms (e.g., SVM, Naive Bayes)
 
-   
+- Improve or optimize existing code
+
+- Add documentation or comments
+
+- Include Jupyter notebooks for interactive exploration
+
+- Share real-world datasets or challenges
+
+### Steps to Contribute
+1.Fork the repo
+
+2.Create your feature branch: git checkout -b feature-name
+
+3.Commit your changes: git commit -m "Added XYZ algorithm"
+
+4.Push to the branch: git push origin feature-name
+
+5.Open a Pull Request
