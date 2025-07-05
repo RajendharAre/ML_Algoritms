@@ -89,8 +89,13 @@ Your contributions are welcome! If you'd like to enhance the project:
 ## 🙋 About the Author
 Created by Rajendhar Are, a passionate Computer Science student deeply interested in data structures, machine learning, and software development.
 
-GitHub: @RajendharAre
+GitHub: [@RajendharAre](https://github.com/RajendharAre)
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: [RajendharAre](https://www.linkedin.com/in/rajendhar-are/)
 
-Email: your-email@example.com
+Email: arerajendhar2903@gmail.com
+
+## 📝 License
+   *This project is licensed under the [MIT License](). You are free to use, modify, and distribute it with attribution.*
+
+**“Learning by doing is the fastest way to mastery.” – Happy Coding 💻**
